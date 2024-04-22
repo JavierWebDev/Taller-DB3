@@ -4,7 +4,7 @@
 
 ## Normalizacion y Diseño DER
 
-![](/home/camper/Imágenes/db.jpeg)
+![](/Taller-DB3/db.jpeg)
 
 ## DDL
 
