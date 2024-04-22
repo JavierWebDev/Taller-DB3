@@ -4,7 +4,7 @@
 
 ## Normalizacion y Diseño DER
 
-![](/Taller-DB3/db.jpeg)
+![](db.jpeg)
 
 ## DDL
 
